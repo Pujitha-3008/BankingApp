@@ -17,3 +17,8 @@ It allows users to create accounts, deposit money, withdraw money, and view acco
 
 ```bash
 java -jar BankingApp.jar
+BankingApp/
+ ├─ src/            # Java source files
+ ├─ manifest.txt    # Entry point for runnable JAR
+ ├─ BankingApp.jar  # Runnable JAR
+ └─ README.md       # Project explanation
